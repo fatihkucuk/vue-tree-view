@@ -1,5 +1,7 @@
 # vue-tree-view
 
+[DEMO](https://fatihkucuk.github.io/vue-tree-view/)
+
 ## Project setup
 ```
 npm install
